@@ -1,0 +1,21 @@
+spend today to get everything set up
+
+read docs
+read api doc
+spin up
+
+create react app and components
+create routing
+
+do server stuff
+grab data
+then do front end stuff
+
+
+save last day for custom/stretch/tweak
+
+_____________________________
+
+
+
+
